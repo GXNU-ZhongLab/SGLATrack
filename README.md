@@ -90,7 +90,7 @@ lib/test/evaluation/local.py  # paths about testing
 
 
 ## Training
-Download pre-trained [DeiT-tiny distilled weights](https://dl.fbaipublicfiles.com/deit/deit_tiny_distilled_patch16_224-b40b3cf7.pth)
+Download pre-trained [DeiT-tiny distilled weights](https://dl.fbaipublicfiles.com/deit/deit_tiny_distilled_patch16_224-b40b3cf7.pth) and put it under `$PROJECT_ROOT$/pretrained_models` 
 
 ```
 python tracking/train.py \
