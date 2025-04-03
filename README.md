@@ -1,6 +1,8 @@
 # [CVPR'2025] - SGLATrack
 
-The official implementation for the **CVPR' 25** paper \[[_Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking_](https://arxiv.org/abs/2503.06625)\]
+The official implementation for the **CVPR 2025** paper
+
+\[[_Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking_](https://arxiv.org/abs/2503.06625)\]
 
 [[Models](https://drive.google.com/drive/folders/1sHL7aFVZFwkPy6js48x-EKfoZC7oJc9X?usp=sharing)], [[Raw Results](https://drive.google.com/drive/folders/1ss-KQqPsfIXeOcl_h3w6Q09dEk07DjUy?usp=sharing)]
 
@@ -88,7 +90,7 @@ lib/test/evaluation/local.py  # paths about testing
 
 
 ## Training
-Download pre-trained [DeiT-tiny distilled weights](https://dl.fbaipublicfiles.com/deit/deit_tiny_distilled_patch16_224-b40b3cf7.pth)
+Download pre-trained [DeiT-tiny distilled weights](https://dl.fbaipublicfiles.com/deit/deit_tiny_distilled_patch16_224-b40b3cf7.pth) and put it under `$PROJECT_ROOT$/pretrained_models` 
 
 ```
 python tracking/train.py \
