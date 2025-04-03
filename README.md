@@ -1,6 +1,7 @@
 # [CVPR'2025] - SGLATrack
 
 The official implementation for the **CVPR 2025** paper
+
 \[[_Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking_](https://arxiv.org/abs/2503.06625)\]
 
 [[Models](https://drive.google.com/drive/folders/1sHL7aFVZFwkPy6js48x-EKfoZC7oJc9X?usp=sharing)], [[Raw Results](https://drive.google.com/drive/folders/1ss-KQqPsfIXeOcl_h3w6Q09dEk07DjUy?usp=sharing)]
