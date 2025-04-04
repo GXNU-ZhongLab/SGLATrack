@@ -128,7 +128,7 @@ python tracking/test.py  --tracker_param sglatrack --dataset uavtrack112 --threa
 ```
 python tracking/test.py  --tracker_param sglatrack --dataset uavdt --threads 8 --num_gpus 4
 ```
-- uavdt
+- dtb70
 ```
 python tracking/test.py  --tracker_param sglatrack --dataset dtb70 --threads 8 --num_gpus 4
 ```
