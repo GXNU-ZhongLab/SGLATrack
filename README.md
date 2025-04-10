@@ -49,6 +49,7 @@ Put the training datasets in ./data. It should look like:
    ```
 
 ## Test Data Preparation
+For conDownlowad test datasetes
 Put the test datasets in ./data. It should look like:
    ```
    ${PROJECT_ROOT}
@@ -106,7 +107,7 @@ We use [wandb](https://github.com/wandb/client) to record detailed training logs
 
 
 ## Test and Evaluation
-
+For ease of testing, we have made the structured dataset available for download at [here](https://pan.baidu.com/s/1MaeGLRcAUbJxksbF_CrOeQ?pwd=5vbv), code: 5vbv.
 - UAV123 or other off-line evaluated benchmarks (modify `--dataset` correspondingly)
 ```
 python tracking/test.py --tracker_param sglatrack --dataset uav123 --threads 8 --num_gpus 4
