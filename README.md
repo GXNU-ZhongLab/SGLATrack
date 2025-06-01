@@ -148,7 +148,7 @@ python tracking/profile_model.py
 
 
 ## Contact
-For any questions or cooperation, please contact xcc23cg@163.com
+For any questions or cooperation, please contact xcc23cg@163.com or wechat: chaocan23
 
 
 ## Acknowledgments
