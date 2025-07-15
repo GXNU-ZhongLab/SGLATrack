@@ -163,7 +163,9 @@ If our work is useful for your research, please consider citing:
 @inproceedings{sglatrack,
   title={Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking},
   author={Xue, Chaocan and Zhong, Bineng and Liang, Qihua and Zheng, Yaozong and Li, Ning and Xue, Yuanliang and Song, Shuxiang},
-  booktitle={CVPR},
-  year={2025}
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {6730-6740}
 }
 ```
