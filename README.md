@@ -50,7 +50,7 @@ Put the training datasets in ./data. It should look like:
 
 ## Test Data Preparation
 
-For ease of testing, we have made the structured dataset available for download at [here](https://pan.baidu.com/s/1MaeGLRcAUbJxksbF_CrOeQ?pwd=5vbv), code: 5vbv.
+For ease of testing, we have made the structured dataset available for download at [here](https://pan.baidu.com/s/1p0H_hHGUAc3fWkD3wlfNcw?pwd=e22r), code: e22r.
 
 Put the test datasets in ./data. It should look like:
    ```
